@@ -1,39 +1,49 @@
-# Hi, I'm Kevin Manzini 👋
+# Kevin Asanda Manzini
+**Full-Stack Developer · Data Explorer**  
+*Code. Create. Repeat.*
 
-### Web applications · APIs · Data exploration
+From API to UI, I build software end-to-end—one commit at a time. 
 
-Welcome to my GitHub! I build web applications and explore data through practical projects. My repositories bring together work with the .NET ecosystem, databases, and notebooks covering topics such as customer churn and healthcare access.
+My work generally falls into two tracks: architecting full-stack web applications within the .NET and modern JavaScript ecosystems, and digging into datasets to answer real-world questions about how people and systems behave. 
 
-## About me
+🌐 **Portfolio:** [kevin-manzini.tech](https://kevin-manzini.tech/)
 
-- 💻 My application projects connect backend APIs, frontend interfaces, and persistent data.
-- 📊 My data projects explore questions about customers, communities, and access to services.
-- 🛠️ This profile brings together the things I'm building and the skills I'm developing along the way.
+---
 
-## Technologies I've used
+## 🎛️ The Stack Behind the Sound
 
-**Application development:** C# · ASP.NET Core Web API · Blazor WebAssembly  
-**Databases:** SQL Server · Entity Framework Core  
-**Tools:** Git · GitHub · Visual Studio · Jupyter notebooks
+* **Application & Web:** C# · ASP.NET Core Web API · Blazor WebAssembly · TypeScript · JavaScript · React · Next.js
+* **Data & Storage:** SQL Server · PostgreSQL · Entity Framework Core · Prisma · Python
+* **Workflow & Tools:** Git · GitHub · Visual Studio · Docker · Jupyter Notebooks
 
-## Featured projects
+---
 
-### ✅ [Full-Stack To-Do App](https://github.com/KevinAsanda/TodoApi)
+## 💿 Selected Work (The Playlist)
 
-A to-do application with a REST API, a responsive Blazor WebAssembly frontend, and SQL Server storage. Supports creating, viewing, updating, and deleting tasks, with separate backend and frontend projects.
+### Side A: Application Architecture
 
-**Built with:** C#, ASP.NET Core, Blazor WebAssembly, Entity Framework Core, and SQL Server.
+**[Full-Stack To-Do System](https://github.com/KevinAsanda/TodoApi)**  
+A decoupled task management system pairing a RESTful backend with a responsive Blazor client. Built to handle clean CRUD operations and persistent state without the clutter.
+* **Tracklist:** `C#` · `ASP.NET Core` · `Blazor WebAssembly` · `EF Core` · `SQL Server`
 
-### 📊 [Customer Churn Model](https://github.com/KevinAsanda/CustomerChurnModel)
+*(For more full-stack releases—like **Prepped 4 Prep** and **ANM Workshop**—check out the case studies on [my portfolio](https://kevin-manzini.tech/).)*
 
-A notebook project working with the Telco Customer Churn dataset.
+### Side B: Data & Analytics
 
-### 🌍 [Geographic Disparity of Healthcare Access](https://github.com/KevinAsanda/Geographic-Disparity-of-Healthcare-Access)
+**[Geographic Disparity of Healthcare Access](https://github.com/KevinAsanda/Geographic-Disparity-of-Healthcare-Access)**  
+An analytical dive into healthcare accessibility. This project combines spatial data with public health metrics—mapping out hospital bed distribution, medical scheme coverage, staffing levels, and diabetes prevalence to see where the gaps actually live.
+* **Tracklist:** `Jupyter Notebook` · `Data Analysis` · `Geospatial Mapping`
 
-A healthcare data project bringing together a notebook, geographic data, and datasets on hospital beds, medical scheme coverage, health professionals, and diabetes prevalence.
+**[Telco Customer Churn Model](https://github.com/KevinAsanda/CustomerChurnModel)**  
+An exploratory notebook breaking down the Telco Customer Churn dataset to identify the patterns and friction points that drive customers to leave a service.
+* **Tracklist:** `Jupyter Notebook` · `Predictive Modeling` · `Python`
 
-## Explore more
+---
 
-Visit [my repositories](https://github.com/KevinAsanda?tab=repositories) to see more of my projects and follow my progress.
+## 🎚️ Behind the Code
 
-Thanks for stopping by! 🚀
+I'm a software development student constantly tinkering with full-stack systems, data pipelines, and cloud deployments. When I'm not debugging an API or cleaning a dataset, I'm almost certainly listening to music.
+
+Browse my [full repository catalog](https://github.com/KevinAsanda?tab=repositories) to see what's currently in development.
+
+*A little code. A lot of curiosity.*
