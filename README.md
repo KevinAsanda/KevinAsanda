@@ -1,60 +1,76 @@
-<h1 align="center">Kevin Asanda Manzini</h1>
-
-<p align="center"><sub><code>DEVTUNES RECORDS · VOL. 01</code></sub></p>
-
-<p align="center"><b>Code. Create. Repeat.</b></p>
-
-<p align="center">Software development student building web applications, APIs and data projects.</p>
-
 <p align="center">
-  <a href="https://kevin-manzini.tech">Portfolio</a> ·
-  <a href="https://github.com/KevinAsanda?tab=repositories">Repositories</a>
+  <img src="banner.svg" alt="Kevin Asanda Manzini. Code. Create. Repeat." width="100%">
 </p>
 
----
+<p align="center">
+  <a href="https://kevin-manzini.tech"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/KevinAsanda?tab=repositories"><b>Repositories</b></a>
+</p>
 
-I build web applications and dig into data through hands-on projects. My repositories cover the .NET ecosystem, relational databases, and Jupyter notebooks on topics like customer churn and healthcare access.
+I'm a software development student who builds web applications and digs into data. Think of this profile as the demo tape: .NET apps, relational databases, and Jupyter notebooks on customer churn and healthcare access.
+
+```text
+▶  NOW PLAYING
+   Full-stack development · cloud computing · the endless rabbit holes of modern JavaScript
+
+   1:42 ━━━━━━━━●─────────────────────── ∞
+```
 
 ## Liner notes
 
-I like projects where the pieces connect: an API that feeds a real interface, a database that holds the state, a dataset that answers a question worth asking.
+I like projects where every part has to play in time: an API that feeds a real interface, a database that keeps the state, a dataset that answers a question worth asking.
 
-On the application side, I wire backends to frontends and persistent storage. On the data side, I look at customers, communities, and who can actually reach the services they need.
+On the application side, I connect backends, frontends and persistent storage. On the data side, I look at customers, communities and who can actually reach the services they need.
 
-When I'm not coding, I'm probably listening to music. 🎵
+## Tracklist
 
-## The stack behind the sound
+### Side A · Applications
 
-| | |
-|---|---|
-| **Application development** | C# · ASP.NET Core Web API · Blazor WebAssembly |
-| **Databases** | SQL Server · Entity Framework Core |
-| **Tools** | Git · GitHub · Visual Studio · Jupyter |
+**01 &nbsp;[Full-Stack To-Do App](https://github.com/KevinAsanda/TodoApi)**
 
-## Project playlist
+A task manager split into a REST API and a responsive Blazor WebAssembly frontend, with SQL Server for storage. Create, view, update and delete tasks. The backend and frontend live in separate projects.
 
-### Side A: Applications
+<sub><code>Full-stack web</code> · <code>C#</code> · <code>ASP.NET Core</code> · <code>Blazor WebAssembly</code> · <code>Entity Framework Core</code> · <code>SQL Server</code></sub>
 
-#### 01 · [Full-Stack To-Do App](https://github.com/KevinAsanda/TodoApi)
+### Side B · Data
 
-A task manager split into a REST API and a responsive Blazor WebAssembly frontend, with SQL Server for storage. You can create, view, update and delete tasks, and the backend and frontend live in separate projects.
-
-`C#` `ASP.NET Core` `Blazor WebAssembly` `Entity Framework Core` `SQL Server`
-
-### Side B: Data
-
-#### 02 · [Customer Churn Model](https://github.com/KevinAsanda/CustomerChurnModel)
+**02 &nbsp;[Customer Churn Model](https://github.com/KevinAsanda/CustomerChurnModel)**
 
 A notebook working through the Telco Customer Churn dataset.
 
-#### 03 · [Geographic Disparity of Healthcare Access](https://github.com/KevinAsanda/Geographic-Disparity-of-Healthcare-Access)
+<sub><code>Data</code> · <code>Jupyter notebook</code></sub>
 
-A healthcare data project that combines a notebook, geographic data, and datasets on hospital beds, medical scheme coverage, health professionals and diabetes prevalence.
+**03 &nbsp;[Geographic Disparity of Healthcare Access](https://github.com/KevinAsanda/Geographic-Disparity-of-Healthcare-Access)**
 
-## More tracks
+A healthcare data project that pairs a notebook with geographic data and datasets on hospital beds, medical scheme coverage, health professionals and diabetes prevalence.
 
-The full catalogue is on my [repositories page](https://github.com/KevinAsanda?tab=repositories). Longer write-ups, including Prepped 4 Prep and ANM Workshop, live on my [portfolio](https://kevin-manzini.tech).
+<sub><code>Data</code> · <code>Jupyter notebook</code> · <code>Geographic data</code></sub>
 
----
+## The band
 
-<p align="center"><sub>In constant development.<br>A little code. A lot of curiosity.</sub></p>
+| Part | Played by |
+|---|---|
+| **Lead** · application development | C# · ASP.NET Core Web API · Blazor WebAssembly |
+| **Rhythm section** · databases | SQL Server · Entity Framework Core |
+| **Studio gear** · tools | Git · GitHub · Visual Studio · Jupyter |
+| **Guest spots** | JavaScript · TypeScript · React · Node.js · Python |
+
+## Flip the record
+
+More of my work is on the [repositories page](https://github.com/KevinAsanda?tab=repositories). Longer write-ups, including Prepped 4 Prep and ANM Workshop, live on my [portfolio](https://kevin-manzini.tech).
+
+<details>
+<summary><b>Hidden track</b></summary>
+
+<br>
+
+When I'm not coding, I'm probably listening to music. Requests are welcome through the contact page on my portfolio.
+
+</details>
+
+<br>
+
+<p align="center">
+  ▁ ▂ ▃ ▅ ▇ ▅ ▃ ▂ ▁<br>
+  <sub>In constant development. A little code. A lot of curiosity.<br>Made with code. Inspired by music.</sub>
+</p>
