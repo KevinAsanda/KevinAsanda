@@ -4,14 +4,15 @@
 
 <p align="center">
   <a href="https://kevin-manzini.tech"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="mailto:kevinasanda99@gmail.com"><b>kevinasanda99@gmail.com</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/KevinAsanda?tab=repositories"><b>Repositories</b></a>
 </p>
 
-I'm a software development student who builds web applications and digs into data. Think of this profile as the demo tape: .NET apps, relational databases, and Jupyter notebooks on customer churn and healthcare access.
+I'm a software development student who builds full-stack web platforms, mobile apps and data tools. Think of this profile as the demo tape: .NET 8 and TypeScript systems, relational databases with strict access controls, native mobile companions and revenue-assurance analytics.
 
 ```text
 ▶  NOW PLAYING
-   Full-stack development · cloud computing · the endless rabbit holes of modern JavaScript
+   Full-stack systems · mobile apps · cloud & relational data engineering
 
    1:42 ━━━━━━━━●─────────────────────── ∞
 ```
@@ -20,40 +21,65 @@ I'm a software development student who builds web applications and digs into dat
 
 I like projects where every part has to play in time: an API that feeds a real interface, a database that keeps the state, a dataset that answers a question worth asking.
 
-On the application side, I connect backends, frontends and persistent storage. On the data side, I look at customers, communities and who can actually reach the services they need.
+On the application side, I connect backends, frontends and persistent storage across web and mobile. On the data and tooling side, I build systems around real local workflows — from scholar transport and workshop operations to telecom revenue assurance.
 
 ## Tracklist
 
-### Side A · Applications
+### Side A · Flagship Systems
 
-**01 &nbsp;[Full-Stack To-Do App](https://github.com/KevinAsanda/TodoApi)**
+**01 &nbsp;[Malume](https://github.com/KevinAsanda/Malume)**
 
-A task manager split into a REST API and a responsive Blazor WebAssembly frontend, with SQL Server for storage. Create, view, update and delete tasks. The backend and frontend live in separate projects.
+South African scholar transport and hybrid e-hailing platform combining monthly seat subscriptions, corridor-constrained ad-hoc rides, B2B2C fleet and school management, offline-first QR/PIN child handover and a staged milestone escrow ledger.
 
-<sub><code>Full-stack web</code> · <code>C#</code> · <code>ASP.NET Core</code> · <code>Blazor WebAssembly</code> · <code>Entity Framework Core</code> · <code>SQL Server</code></sub>
+<sub><code>.NET 8</code> · <code>C#</code> · <code>Blazor WebAssembly</code> · <code>SQL Server</code> · <code>Kotlin</code> · <code>React Native</code></sub>
 
-### Side B · Data
+**02 &nbsp;[ANM — Automotive Service Management](https://github.com/KevinAsanda/ANM)**
 
-**02 &nbsp;[Customer Churn Model](https://github.com/KevinAsanda/CustomerChurnModel)**
+Workshop operations platform pairing a public customer booking and token-based repair tracker with an authenticated staff portal for interactive job cards, parts inventory, shift logs and transactional invoicing.
 
-A notebook working through the Telco Customer Churn dataset.
+<sub><code>TypeScript</code> · <code>React</code> · <code>Node.js</code> · <code>Express</code> · <code>PostgreSQL</code> · <code>Supabase RLS</code></sub>
 
-<sub><code>Data</code> · <code>Jupyter notebook</code></sub>
+**03 &nbsp;[BMS — Butchery Management System](https://github.com/KevinAsanda/bms)**
 
-**03 &nbsp;[Geographic Disparity of Healthcare Access](https://github.com/KevinAsanda/Geographic-Disparity-of-Healthcare-Access)**
+Full-stack Progressive Web App built for Simon Family Farm Butchery with touch-optimised POS checkout, automatic stock deductions, POPIA-compliant AES-256-GCM customer encryption and daily cash-up analytics.
 
-A healthcare data project that pairs a notebook with geographic data and datasets on hospital beds, medical scheme coverage, health professionals and diabetes prevalence.
+<sub><code>React</code> · <code>Node.js</code> · <code>Express</code> · <code>Prisma</code> · <code>PostgreSQL</code> · <code>PWA</code></sub>
 
-<sub><code>Data</code> · <code>Jupyter notebook</code> · <code>Geographic data</code></sub>
+**04 &nbsp;[P4P — Prepped 4 Prep](https://github.com/KevinAsanda/P4P)**
+
+Dual-application school stationery e-commerce and warehouse operations monorepo connecting a public parent storefront and AI-assisted list matcher with an isolated staff portal for barcode-verified packing and fulfilment.
+
+<sub><code>TypeScript</code> · <code>Next.js</code> · <code>Prisma</code> · <code>PostgreSQL</code> · <code>Supabase</code> · <code>pnpm Monorepo</code></sub>
+
+### Side B · Data, Mobile & Tools
+
+**05 &nbsp;[Ghost SIM Hunter](https://github.com/KevinAsanda/ghost-sim-hunter)**
+
+Three-layer telecom revenue assurance and RAN spatial analytics engine that reconciles daily CDRs against rollover bundles, corporate pools and zero-rated APNs to surface unbilled active SIMs for forensic case review.
+
+<sub><code>Python</code> · <code>Starlette</code> · <code>SQLite</code> · <code>Revenue Assurance</code> · <code>Anomaly Scoring</code></sub>
+
+**06 &nbsp;[Charades — Mzansi Charades](https://github.com/KevinAsanda/Charades)**
+
+Native Android party game celebrating South African pop culture, kwaito, local slang and nostalgic moments, built with offline Room storage, Firebase sync and server-side Gemini deck capabilities.
+
+<sub><code>Kotlin</code> · <code>Jetpack Compose</code> · <code>Room</code> · <code>Firebase</code> · <code>Android</code></sub>
+
+**07 &nbsp;[UniMarket v2](https://github.com/KevinAsanda/UniMarket_v2)**
+
+Closed peer-to-peer campus marketplace for MUT students featuring OCR student-card verification, live face matching, moderated listings and atomic PostgreSQL RPC checkout.
+
+<sub><code>React</code> · <code>Vite</code> · <code>Supabase</code> · <code>PostgreSQL</code> · <code>Tesseract.js</code> · <code>face-api.js</code></sub>
 
 ## The band
 
 | Part | Played by |
 |---|---|
-| **Lead** · application development | C# · ASP.NET Core Web API · Blazor WebAssembly |
-| **Rhythm section** · databases | SQL Server · Entity Framework Core |
-| **Studio gear** · tools | Git · GitHub · Visual Studio · Jupyter |
-| **Guest spots** | JavaScript · TypeScript · React · Node.js · Python |
+| **Lead** · frontend & web | TypeScript · Next.js · React · Blazor WebAssembly |
+| **Backline** · backend & APIs | .NET 8 / C# · Node.js / Express |
+| **Rhythm section** · databases | PostgreSQL · Supabase · SQL Server · Prisma · Entity Framework Core |
+| **On tour** · mobile | Kotlin (Jetpack Compose) · React Native |
+| **Synth & studio gear** · data & tools | Python · Git · GitHub Actions · Docker |
 
 ## Flip the record
 
